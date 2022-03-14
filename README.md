@@ -29,4 +29,4 @@ API_KEY=your api key here
 
 ***_HAPPY CODING_*** 
 
-# See the app work in action [here.](https://https://recipes-app-101.herokuapp.com//)
+# See the app work in action [here.](https://recipes-app-101.herokuapp.com//)
